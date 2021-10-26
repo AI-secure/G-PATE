@@ -56,7 +56,7 @@ For CelebA datasets, please refer to their official websites for downloading.
 python main.py --checkpoint_dir [checkpoint_dir] --dataset [dataset_name] --train
 ```
 
-Example of one of our best command on MNIST:
+Example of one of our best commands on MNIST:
 
 Given eps=1,
 ```shell script
